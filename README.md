@@ -1,6 +1,4 @@
-I have built my career across education, digital services, enterprise technology, and AI. Along the way, my work has included creating training and quality processes, managing B2B client work, leading customer success for enterprise accounts, and evaluating AI-generated work.
-
-The roles have been different, but my approach has stayed consistent: understand what is actually happening before deciding what should happen next.
+I have built my career around the full customer lifecycle—understanding what customers need at each stage and helping teams follow through on what was promised. I use what I learn from customers along the way to improve delivery and operations and help product teams make better decisions.
 
 ## Selected Work
 
