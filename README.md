@@ -12,7 +12,7 @@ I created this framework to show how I keep important customer information and c
 
 ### [Customer Feedback to Product Improvement](https://github.com/shaibal-barman/customer-feedback-to-product-improvement)
 
-At GuardVision, recurring customer cases often showed where the product or service was falling short. I worked with Product, Engineering, QA, and Operations to understand the problem, test changes against real scenarios, and follow through on the result.
+Some of the most useful improvements I worked on started with problems customers kept running into. I worked with Product, Engineering, QA, and Operations to understand the problem, test changes against real scenarios, and follow through to see whether the outcome improved.
 
 - [How the work moved](https://github.com/shaibal-barman/customer-feedback-to-product-improvement#how-the-work-moved)
 - [Detection accuracy improvement example](https://github.com/shaibal-barman/customer-feedback-to-product-improvement/blob/main/examples/detection-accuracy-improvement.md)
