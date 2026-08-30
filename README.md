@@ -17,3 +17,10 @@ Some of the most useful improvements I worked on started with problems customers
 - [How the work moved](https://github.com/shaibal-barman/customer-feedback-to-product-improvement#how-the-work-moved)
 - [Detection accuracy improvement example](https://github.com/shaibal-barman/customer-feedback-to-product-improvement/blob/main/examples/detection-accuracy-improvement.md)
 
+### [The Lead Diary](https://github.com/shaibal-barman/the-lead-diary)
+
+The idea came from a problem I have faced myself: finding a company is one thing, but understanding enough about the business and the people behind it before starting a conversation takes much more work. The Lead Diary explores a simpler way to organize that research.
+
+- [Explore the concept](https://github.com/shaibal-barman/the-lead-diary)
+- [MVP scope](https://github.com/shaibal-barman/the-lead-diary/blob/main/docs/mvp.md)
+- [Product roadmap](https://github.com/shaibal-barman/the-lead-diary/blob/main/docs/roadmap.md)
